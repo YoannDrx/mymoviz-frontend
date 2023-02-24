@@ -50,7 +50,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://mymoviz-frontend-azure.vercel.app/
 
 ## 🧑‍💻 Authors
 
